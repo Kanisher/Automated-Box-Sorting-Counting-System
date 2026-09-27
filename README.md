@@ -63,20 +63,10 @@ The PLC program was integrated with **Factory I/O** to simulate and test the com
 ## Project Media
 
 ### Factory I/O Simulation
-
-*Add your Factory I/O screenshot here.*
-
 ### PLC Program
-
-*Add your TIA Portal Ladder Logic screenshot here.*
-
 ### Counter Logic
-
-*Add a screenshot showing the counter logic here.*
-
 ### Project Demonstration
 
-*Add your project demonstration video/link here.*
 
 ## Key Learning
 
